@@ -1,0 +1,6 @@
+{
+  "name": "Minesweeper Terminal Game",
+  "image": "://microsoft.com",
+  "updateContentCommand": "g++ main.cpp -o minesweeper",
+  "postAttachCommand": "./minesweeper"
+}
