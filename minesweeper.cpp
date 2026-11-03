@@ -3,7 +3,9 @@
 #include <string>
 #include <vector>
 #include <cstdlib>
+#ifdef _WIN32
 #include <windows.h>
+#endif
 #include <queue>
 #include <cctype>
 using namespace std;
@@ -55,7 +57,7 @@ void minesweeper() {
 
     cout << "\033[?25l";
     cout << "\033[H";
-    Sleep(10);
+    #ifdef _WIN32 Sleep(1000); #endif;
 
     int rows = 9;
     int cols = 9;
@@ -450,7 +452,7 @@ int main() {
                     // Start Game
                     cout << "\033[H";
                     cout << "=== STARTING MINESWEEPER ===" << "\033[J\n";
-                    Sleep(1000); // Simulate game loading
+                    #ifdef _WIN32 Sleep(1000); #endif; // Simulate game loading
                     minesweeper();
             }
             else if (currentSelection == 1) {
