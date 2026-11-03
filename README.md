@@ -1,4 +1,4 @@
-[![Open in GitHub Codespaces](https://github.com)](https://github.com)
+![Codespaces Badge](https://github.com) [Play Game Here](https://github.com)
 
 # Minesweeper in Terminal
 - 3 difficulty levels:
