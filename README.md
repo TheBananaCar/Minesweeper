@@ -1,3 +1,5 @@
+[![Open in GitHub Codespaces](https://github.com)](https://github.com)
+
 # Minesweeper in Terminal
 - 3 difficulty levels:
   1)  Easy: 10x10 with 10 bombs
@@ -10,5 +12,3 @@
 - D for clicking in game.
 - Enter for clicking in menu and game.
 - F for placing flag.
-
-[![Open in GitHub Codespaces](https://github.com)](https://github.com)
