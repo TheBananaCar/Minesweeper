@@ -1,4 +1,6 @@
-![Codespaces Badge](https://github.com) [Play Game Here](https://github.com)
+Click the link below to play Minesweeper instantly in your browser terminal:
+
+[👉 Click Here to Play the Game 👈](https://github.com)
 
 # Minesweeper in Terminal
 - 3 difficulty levels:
