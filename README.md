@@ -1,7 +1,3 @@
-Click the link below to play Minesweeper instantly in your browser terminal:
-
-[👉 Click Here to Play the Game 👈](https://github.com)
-
 # Minesweeper in Terminal
 - 3 difficulty levels:
   1)  Easy: 10x10 with 10 bombs
