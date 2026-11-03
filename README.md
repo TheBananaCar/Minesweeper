@@ -10,3 +10,5 @@
 - D for clicking in game.
 - Enter for clicking in menu and game.
 - F for placing flag.
+
+[![Open in GitHub Codespaces](https://github.com)](https://github.com)
